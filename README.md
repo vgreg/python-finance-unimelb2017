@@ -38,7 +38,7 @@ symbolic algebra.
 ## Software
 
 
-I recommend the [Anaconda distribution](listings/PythonIntro.py),
+I recommend the [Anaconda distribution](https://www.anaconda.com/download/),
 which is available for Windows, Mac OS and  Linux. We are using the Python
 2.7 version for the boot camp. **Note: for the 2018 workshop I am now using Python 3.6**.
 
@@ -48,8 +48,8 @@ which is available for Windows, Mac OS and  Linux. We are using the Python
 
 ### Slides
 
-- [Python for Financial Research (PDF)](https://github.com/vgreg/python-finance-unimelb0217/blob/master/slides/PythonBootcampMarch2017.pdf.py)
-- [Introduction to Web Scraping with Python (PDF)](https://github.com/vgreg/python-finance-unimelb0217/blob/master/slides/WebScrapingPythonMarch2017.pdf.py)
+- [Python for Financial Research (PDF)](https://github.com/vgreg/python-finance-unimelb0217/blob/master/slides/PythonBootcampMarch2017.pdf)
+- [Introduction to Web Scraping with Python (PDF)](https://github.com/vgreg/python-finance-unimelb0217/blob/master/slides/WebScrapingPythonMarch2017.pdf)
 
 
 ### Code
