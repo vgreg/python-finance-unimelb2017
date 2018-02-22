@@ -48,8 +48,8 @@ which is available for Windows, Mac OS and  Linux. We are using the Python
 
 ### Slides
 
-- [Python for Financial Research (PDF)](slides/PythonBootcampMarch2017.pdf.py)
-- [Introduction to Web Scraping with Python (PDF)](slides/WebScrapingPythonMarch2017.pdf.py)
+- [Python for Financial Research (PDF)](https://github.com/vgreg/python-finance-unimelb0217/blob/master/slides/PythonBootcampMarch2017.pdf.py)
+- [Introduction to Web Scraping with Python (PDF)](https://github.com/vgreg/python-finance-unimelb0217/blob/master/slides/WebScrapingPythonMarch2017.pdf.py)
 
 
 ### Code
@@ -61,8 +61,8 @@ the Python language, its libraries, and some common use cases in research.
 
 **Block 1:**
 
-- [PythonIntro.py](listings/PythonIntro.py): Introduction to the Python language.
-- [TurtleTutorial.py](listings/TurtleTutorial.py): Some exercises with the turtle package.
+- [PythonIntro.py](https://github.com/vgreg/python-finance-unimelb0217/blob/master/listings/PythonIntro.py): Introduction to the Python language.
+- [TurtleTutorial.py](https://github.com/vgreg/python-finance-unimelb0217/blob/master/listings/TurtleTutorial.py): Some exercises with the turtle package.
 
 **Block 2:**
 
@@ -76,5 +76,5 @@ the Python language, its libraries, and some common use cases in research.
 
 **Block 4:**
 
-- [Trump's tweets and the stock market](notebooks/trump-tweets-and-the-stock-market.ipynb): Merge and analyze twitter data, apply textual (sentiment) analysis and process intraday stock market data.
-- [DownloadEdgar.py](listings/DownloadEdgar.py): Batch downloading 10-Ks from EDGAR.
+- [Trump's tweets and the stock market](https://github.com/vgreg/python-finance-unimelb0217/blob/master/notebooks/trump-tweets-and-the-stock-market.ipynb): Merge and analyze twitter data, apply textual (sentiment) analysis and process intraday stock market data.
+- [DownloadEdgar.py](https://github.com/vgreg/python-finance-unimelb0217/blob/master/listings/DownloadEdgar.py): Batch downloading 10-Ks from EDGAR.
