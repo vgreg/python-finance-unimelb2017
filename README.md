@@ -4,7 +4,7 @@
 
 This repository contains material for a Python for financial research workshop I taught to honours and Ph.D. students at the University of Melbourne in 2017.
 
-**NOTE: This stuff is in part already outdated. I am in the process of updating the material for the 2018 workshop and will post the link here once it is available. The most significant change is that I am now using Python 3.6 instead of 2.7**
+**NOTE: This stuff is in part already outdated. The most significant change is that I am now using Python 3.6 instead of 2.7. See the [2018 workshop](https://github.com/vgreg/python-finance-unimelb2018) for up-to-date examples.**
 
 
 ## Outline
